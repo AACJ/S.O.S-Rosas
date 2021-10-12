@@ -49,7 +49,7 @@ Clique [aqui](https://github.com/AACJ/S.O.S-Rosas/blob/master/assets/Manual%20do
 
 # 👨‍💻 Autores e Desenvolvedores
 
-<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHDufARiPFmWA/profile-displayphoto-shrink_200_200/0/1616451594388?e=1625702400&v=beta&t=nfpi5kwhBI_Ygz9rFwO4_ayDAaTNy55oBNkV1wa19Yw" width="100" height="100"/>
+<img src="https://avatars.githubusercontent.com/u/44075055?v=4" width="100" height="100"/>
 
 Aline Alves Cunegundes
 
